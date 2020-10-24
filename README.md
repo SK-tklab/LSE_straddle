@@ -5,7 +5,7 @@ Level Set Estimation with straddle acquisition function
 Level set estimation (LSE) is the problem of identifying regions where the value of function is greater than or equal to the threshold value.
 I deal with efficient LSE using active learning.
 
-I use straddle as an acquisition function.
+I use straddle acquisition function.
 It is a measure based on uncertainty about classification.
 
 For more information, see the following paper.
