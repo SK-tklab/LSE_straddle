@@ -14,6 +14,6 @@ For more information, see the following paper.
 
 ## Demo
 ![iteration1](https://github.com/SK-tklab/LSE_straddle/blob/main/image/LSE_1.png)
+![iteration3](https://github.com/SK-tklab/LSE_straddle/blob/main/image/LSE_3.png)
 ![iteration6](https://github.com/SK-tklab/LSE_straddle/blob/main/image/LSE_6.png)
-![iteration10](https://github.com/SK-tklab/LSE_straddle/blob/main/image/LSE_10.png)
 ![iteration15](https://github.com/SK-tklab/LSE_straddle/blob/main/image/LSE_15.png)
